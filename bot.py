@@ -23,7 +23,7 @@ USERS_FILE = "users.json"
 
 # DEFAULT PRODUCTS
 DEFAULT_PRODUCTS = {
-    "p1": {"name": "Myntra ₹100 Off", "price": 45, "file": "myntra100.txt"},
+    "p1": {"name": "Myntra ₹100 Off", "price": 30, "file": "myntra100.txt"},
     "p2": {"name": "Myntra ₹150 Off", "price": 25, "file": "myntra150.txt"},
 }
 
